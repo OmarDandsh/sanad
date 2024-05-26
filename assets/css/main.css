@@ -17,7 +17,7 @@
   --font-secondary: "Poppins", sans-serif;
 }
 
-/* Colors */
+
 :root {
   --color-default: #222222;
   --color-primary: #008374;
@@ -1370,6 +1370,8 @@ section {
   padding: 15px;
   overflow: hidden;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
+  margin: auto;
+  
 }
 
 .team .member img {
